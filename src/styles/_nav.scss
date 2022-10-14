@@ -1,0 +1,15 @@
+nav{
+    background-color: rgb(97, 234, 197);
+    ul{
+        display: flex;
+        justify-content: flex-end;
+        margin-right: 3rem;
+        li{
+            margin: 0.5rem 1rem;
+            a{
+                font-size:1.5rem ;
+                color: rgb(24, 118, 110);
+            }
+        }
+    }
+}
